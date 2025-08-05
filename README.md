@@ -44,10 +44,6 @@ This is a fun project where you can keep track of scores between two players in 
 
 ---
 
-## 🖼️ Screenshot
-(Add a screenshot of your project here if you want)
-
----
 
 ## 📦 External Libraries Used
 - [Bulma CSS](https://bulma.io/) (for styling)
@@ -60,7 +56,6 @@ This project is open source and free to use.
 
 ---
 
-## 💡 Author
-- B Pavan Kumar
+
 
 

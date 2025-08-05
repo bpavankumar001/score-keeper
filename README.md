@@ -17,6 +17,12 @@ This is a fun project where you can keep track of scores between two players in 
 ---
 
 ## 📂 Project Structure
+/project-root
+│
+├── index.html // Main HTML structure
+├── index.css // Styling for winner/loser
+├── index.js // Game logic and event handling
+└── README.md // Project documentation
 
 ---
 
